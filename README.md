@@ -16,3 +16,5 @@ _Inside the **"Tracker"** folder:_
 →Next, create a folder named **"public"**. Inside the "public" folder:
 →Create a folder called **"css"**, and inside that folder, create a file named **style.css.**
 →Then, create another folder inside "public" called **"js"**, and inside that folder, create a file named **script.js.**
+To Connect the Server use
+**Command**:- npx nodemon app.js
